@@ -60,13 +60,14 @@ void _mostrarAlert(BuildContext context, String title, String content, String ro
     barrierDismissible: false,
     builder: (context) {
       return AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20.0)),
         title: Text(title),
-        content: Column(
+        content: Row(
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
-            Text(content),
-            SizedBox(height: 20),
             Lottie.asset(routeIcon, width: 40, options: LottieOptions()),
+            SizedBox(width: 30),
+            Text(content),
           ],
         ),
         actions: [
