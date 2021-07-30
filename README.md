@@ -4,12 +4,12 @@ Aplicación con imágenes en SVG y Animaciones con JSON
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este proyecto está desarrollado en Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Unos cuantos recursos para iniciar si este es tu primer proyecto en flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Lab: Crea tu primera app en Flutter](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Valiosos ejemplos en flutter](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
