@@ -21,6 +21,7 @@ class MainPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text('SVG Project'),
+        centerTitle: true,
       ),
       body: Center(
           child: Container(
