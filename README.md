@@ -1,6 +1,6 @@
-# svg
+# Proyecto de Imágenes Vectoriales
 
-A new Flutter project.
+Aplicación con imágenes en SVG y Animaciones con JSON
 
 ## Getting Started
 
